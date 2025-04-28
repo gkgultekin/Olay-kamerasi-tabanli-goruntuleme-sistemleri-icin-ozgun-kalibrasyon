@@ -14,7 +14,7 @@ Bu proje, olay (event-based) kameralar için özel olarak tasarlanmış ve yüks
 
 ## 📂 Veri Kümesi
 Veri kümesine aşağıdaki bağlantı üzerinden erişebilirsiniz:  
-🔗 [Veri Setlerini İndir](https://drive.google.com/)
+🔗 [Veri Setlerini İndir](https://drive.google.com/drive/folders/1UI78qbMayOxV4bkA0Hq4Af9HcJOcHPHj)
 
 Her bir klasörde şu içerikler bulunmaktadır:
 - Ham olay verisi (`.aedat4` veya `.dat` formatında)
