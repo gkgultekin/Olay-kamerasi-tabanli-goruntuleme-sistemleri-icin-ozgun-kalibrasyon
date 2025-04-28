@@ -1,5 +1,3 @@
-# Olay-kamerasi-tabanli-goruntuleme-sistemleri-icin-ozgun-kalibrasyon
-Tübitak 123E693 numaralı proje
 # 📌 Proje Başlığı
 **Olay Kamerası Tabanlı Görüntüleme Sistemleri İçin Özgün Kalibrasyon Yöntemi Geliştirilmesi ve Uygulanması**
 
@@ -14,8 +12,8 @@ Bu proje, olay (event-based) kameralar için özel olarak tasarlanmış ve yüks
 
 ---
 
-## 📂 Veri Seti
-Veri setlerine aşağıdaki bağlantı üzerinden erişebilirsiniz:  
+## 📂 Veri Kümesi
+Veri kümesine aşağıdaki bağlantı üzerinden erişebilirsiniz:  
 🔗 [Veri Setlerini İndir](https://drive.google.com/)
 
 Her bir klasörde şu içerikler bulunmaktadır:
